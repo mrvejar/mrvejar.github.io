@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Values"
-    url: /values/
+  #- title: "Values"
+   # url: /values/
