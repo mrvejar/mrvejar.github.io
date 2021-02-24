@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+</>{% include base_path %}
 
 Education
 ======
@@ -43,17 +43,17 @@ Presentations
 * Vejar, Manuel R; Reilly, Connor J; Kim, Christopher S. (2018), EXAFS and µXRF analysis of arsenic speciation and spatial distribution in mine tailings: Implications for physical weathering, bioaccessibility, and remediation. American Chemical Society, Geochemistry Division, Contaminated Site Remediation through Microbial, Geological & Chemical Processes Session. New Orleans, Louisiana, USA (Poster).
 * Vejar, Manuel R; Diaz, Maria D; Kim, Christopher S. (2016), Effects of Drying Aggregation Conditions on the Uptake and Retention of Pb(II) and Zn(II) onto Iron Oxyhydroxide Nanoparticles. A. Chapman University, SURFEES Commencement and Poster session. B. South Coast Geological Society, Student Poster Session. Santa Ana, California, USA (Oral & Poster).
 
-/Publications
+</>Publications
 ======
-/  <ul>{% for post in site.publications %}
-/    {% include archive-single-cv.html %}
-/  {% endfor %}</ul>
+</>  <ul>{% for post in site.publications %}
+</>    {% include archive-single-cv.html %}
+</>  {% endfor %}</ul>
   
-/Talks
+</>Talks
 ======
-/  <ul>{% for post in site.talks %}
-/    {% include archive-single-talk-cv.html %}
-/  {% endfor %}</ul>
+</>  <ul>{% for post in site.talks %}
+</>    {% include archive-single-talk-cv.html %}
+</>  {% endfor %}</ul>
   
 Teaching
 ======
@@ -65,9 +65,9 @@ Teaching
   * Earth Sciences Department
     * February—December 2016
 
-/  <ul>{% for post in site.teaching %}
-/    {% include archive-single-cv.html %}
-/  {% endfor %}</ul>
+</>  <ul>{% for post in site.teaching %}
+</>    {% include archive-single-cv.html %}
+</>  {% endfor %}</ul>
   
 Honors and Awards
 ======
