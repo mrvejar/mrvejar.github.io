@@ -11,49 +11,101 @@ redirect_from:
 
 Education
 ======
-* B.S. in Geology, California State Polytechnic University-Pomona, 2019
+* Doctor of Philosophy (Ph.D.)—Civil & Environmental Engineering & Earth Sciences
+  * University of Notre Dame
+  * Expected Completion Date: Spring 2024
+  * Advisor: Dr. Amy Hixon
 
+* Bachelor of Science (B.S.)—Geology
+  * California State Polytechnic University, Pomona		
+  * Graduation Date: May 2019
+  * Advisors: Dr. Jonathan Nourse, Dr. Christopher Kim (Chapman University)
 
-
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Research Assistant, Environmental Actinide Chemistry Lab, Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame
+  * July 2019—Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, Environmental Geochemistry Laboratory, Chapman University
+  * June 2017—July 2019
+
+* Stanford Earth Summer Undergraduate Research in Geoscience and Engineering (SURGE), Sedimentary Geology Group, Stanford University
+  * June—August 2018
+
+* Summer Undergraduate Research Fellowship in Environmental and Earth Sciences (SURFEES), Environmental Geochemistry Lab, Chapman University
+  * June—August 2016
   
-Skills
+Presentations
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Vejar, Manuel R; LaHaye, Nicholas; Kim, Christopher S. (2019), Arsenic Spatial Distribution in Mine Wastes: Developing a Proxy for Short and Long-Term Exposure Risks. Goldschmidt 2019, Environmental Impacts of Mine Wastes Session. Barcelona, Spain (Poster).
+* Vejar, Manuel R; Kim, Christopher S. (2019), Arsenic speciation and spatial distribution in mine wastes: Steps towards developing a proxy for long-term exposure risks. Cal Poly Pomona, College of Science Symposium. Pomona, California, USA (Poster).
+* Vejar, Manuel R; Jaikla, Chayawan; Lowe, Donald R. (2018), Petrography, geochemistry, and U-Pb detrital zircon geochronology of the Pigeon Point and Atascadero Formations: implications for Late Cretaceous tectonic history of the San Gregorio-Hosgri fault. Stanford University, SURGE Symposium. Stanford, California, USA (Oral & Poster).
+* Vejar, Manuel R; Reilly, Connor J; Kim, Christopher S. (2018), EXAFS and µXRF analysis of arsenic speciation and spatial distribution in mine tailings: Implications for physical weathering, bioaccessibility, and remediation. American Chemical Society, Geochemistry Division, Contaminated Site Remediation through Microbial, Geological & Chemical Processes Session. New Orleans, Louisiana, USA (Poster).
+* Vejar, Manuel R; Diaz, Maria D; Kim, Christopher S. (2016), Effects of Drying Aggregation Conditions on the Uptake and Retention of Pb(II) and Zn(II) onto Iron Oxyhydroxide Nanoparticles. A. Chapman University, SURFEES Commencement and Poster session. B. South Coast Geological Society, Student Poster Session. Santa Ana, California, USA (Oral & Poster).
 
-Publications
+#Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
+#Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* University of Notre Dame, Graduate Teaching Assistant
+  * Department of Civil & Environmental Engineering & Earth Sciences 
+    * August 2019—Present
+
+* Santiago Canyon College (Rancho Santiago Community College District), Instructional Assistant 
+  * Earth Sciences Department
+    * February—December 2016
+
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Roy G. Post Graduate Scholarship 2021, Waste Management Symposia
+
+* GLOBES Interdisciplinary Mini-Grant 2020, University of Notre Dame
+
+* GLOBES Certificate Program 2019-Present, University of Notre Dame
+
+* Merit and US early career Goldschmidt 2019 conference grant, Geochemical Society
+
+* McNair Graduate Transition Scholarship Award 2019, California State Polytechnic University, Pomona
+
+* Louis Stokes Alliance for Minority Participation (LSAMP) Research Fellowship 2018-2019, California State Polytechnic University Pomona
+
+* McNair Scholar 2017-2018, California State Polytechnic University Pomona
+
+* Administrative Fund for Conference Travel, Winter 2018, California State Polytechnic University Pomona
+
+* Margaret Claire Van Buskick Memorial Scholarship Award 2017-2018, California State Polytechnic University Pomona
+
+* Associated Student Government Leadership Award 2016, Santiago Canyon College
+
+* Barbara Hovanitz Memorial Scholarship Award 2016, Santiago Canyon College
+
+Professional Associates and Memberships
+======
+* American Chemical Society, Member 2017-Present
+* Geochemical Society, Member 2018-Present
+* Mineralogical Society of America, Member 2018-Present
+* Society for Advancing Chicanos/Hispanics & Native Americans in Science, Member 2019-Present
+* Clay Minerals Society, Member 2020-Present
+
+Workshops
+======
+* Graduate Programs and the Application Process, McNair Scholars Program, CPP, Summer 2020
+* Transferring to a 4-year University in the Geosciences, Chaffey College, Spring 2019
+* Researching Graduate Programs and the Application Process, McNair Scholars Program, CPP, Fall 2018
+* Research Experience for Undergraduates—FAQs, McNair Scholars Program, CPP, Fall 2018
+* Undergraduate in Geosciences Student Panel, Stanford University (Stanford Earth), Summer 2018
+* Transferring into a Geoscience program from Community/Junior College, Chaffey College, Spring 2018
