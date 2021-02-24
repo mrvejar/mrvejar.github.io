@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Manny is an Actinide Chemistry PhD student at Notre Dame interested in environmental actinide chemistry and synchrotron x-ray spectroscopy techniques"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-## Manny is an Actinide Chemistry PhD student at Notre Dame interested in environmental actinide chemistry and synchrotron x-ray spectroscopy techniques
-
-# Technical Experience
-I have a Bachelor's Degree in Geology from Cal Poly Pomona. While working on my Bachelor's, I conducted environmental geochemistry research at Chapman University, and participated in two REUs: at Chapman University and later at Stanford Univeristy.
+# Academic and Research Experience
+I received a Bachelor in Science degree in Geology from Cal Poly Pomona in 2019. While working on my B.Sc., I conducted environmental geochemistry research at Chapman University from 2017 to  2019 studying Arsenic speciation using synchrotron X-ray techniques. I also participated in two REUs: one at Chapman University in 2016 and later at Stanford Univeristy in 2018.
 
 # Leadership Experience
-I have served as president of the Geology Club at Santiago Canyon College and Cal Poly Pomona. I have grown increasingly passionate about connecting science with campus and local communities.
+I have served as president of the Geology Club at Santiago Canyon College and Cal Poly Pomona. I have also served as a mentor to an undergraduate student applying to graduate programs. I have grown increasingly passionate about connecting science with campus and local communities.
