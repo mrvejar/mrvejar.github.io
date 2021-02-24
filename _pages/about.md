@@ -14,7 +14,7 @@ I am an Actinide Chemistry PhD student at Notre Dame conducting research in envi
 Primarily I use this page to introduce myself and direct you to my professional sites and facilitating getting in contact with me. Click the relevant icon(s) on the left.
 
 # Academic and Research Experience
-Currently, I study plutonium sorption and reduction behavior at the mineral-water interface as a function of mineral complexity.
+Currently, I study Plutonium sorption and reduction behavior at the mineral-water interface as a function of mineral complexity.
 
 I received a Bachelor in Science degree in Geology from Cal Poly Pomona in 2019. While working on my B.Sc., I conducted environmental geochemistry research at Chapman University from 2017 to  2019 studying Arsenic speciation using synchrotron X-ray techniques. I also participated in two REUs: one at Chapman University in 2016 and later at Stanford Univeristy in 2018.
 
