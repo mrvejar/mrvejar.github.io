@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Manuel (Manny) Vejar"
   avatar           : "Manny_Goldy.png"
-  bio              : "I am a 2nd year grad student in Amy Hixon's research group -the environmental actinide chemistry lab- at the University of Notre Dame"
+  bio              : "I am a 2nd-year PhD student in Amy Hixon's research group -the environmental actinide chemistry lab- at the University of Notre Dame"
   location         : "Notre Dame, IN"
   employer         : "University of Notre Dame"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "mvejar@nd.edu"
   researchgate     : "https://www.researchgate.net/profile/Manuel-Vejar"
   uri              :
