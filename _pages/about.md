@@ -11,7 +11,9 @@ redirect_from:
 # About me
 I am an Actinide Chemistry PhD student at Notre Dame conducting research in environmental actinide chemistry, employing aqueous chemistry and synchrotron x-ray spectroscopy techniques. 
 
-Primarily I use this page to introduce myself and direct you to my professional sites and facilitating getting in contact with me. Click the relevant icon(s) on the left.
+Primarily, I use this page to introduce myself and direct you to my professional sites and facilitating getting in contact with me. Click the relevant icon(s) on the left.
+
+To see posters and other research-related items, visit my ResearchGate by clicking the RG link on the left.
 
 # Academic and Research Experience
 Currently, I study Plutonium sorption and reduction behavior at the mineral-water interface as a function of mineral complexity.
