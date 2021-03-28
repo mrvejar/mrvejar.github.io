@@ -56,6 +56,8 @@ Teaching
   
 Honors and Awards
 ======
+* Graduate Research Fellowship (NSF-GRFP) 2021, National Science Foundation
+
 * Roy G. Post Graduate Scholarship 2021, Waste Management Symposia
 
 * GLOBES Interdisciplinary Mini-Grant 2020, University of Notre Dame
