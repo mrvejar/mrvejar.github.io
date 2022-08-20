@@ -11,9 +11,9 @@ redirect_from:
 # About me
 I am a PhD student at the University of Notre Dame (USA) conducting research in environmental actinide geochemistry, employing primarily low-temperature aqueous chemistry and geochemistry, and synchrotron x-ray spectroscopy techniques. 
 
-Chiefly, I use this page to introduce myself and direct you to my professional pages and facilitating getting in contact with me. Click the relevant icon(s) on the left in Desktop view or click the follow icon on the right in Mobile view.
+I mainly use this page to introduce myself and direct you to my professional pages and facilitating getting in contact with me. Click the relevant icon(s) on the left in Desktop view or click the follow icon on the right in Mobile view.
 
-To see posters and other research-related items, visit my ResearchGate by clicking the RG link.
+For posters and other research-related items, visit my ResearchGate by clicking the RG link.
 
 # Academic and Research Experience
 Currently, I study Plutonium sorption and reduction behavior in the environment at the mineral-water interface of iron oxides as a function of mineral complexity (Al-substitution in this case).
