@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About me
-I am a PhD student at Notre Dame conducting research in environmental actinide geochemistry, employing primarily low-temperature aqueous chemistry and geochemistry, and synchrotron x-ray spectroscopy techniques. 
+I am a PhD student at the University of Notre Dame (USA) conducting research in environmental actinide geochemistry, employing primarily low-temperature aqueous chemistry and geochemistry, and synchrotron x-ray spectroscopy techniques. 
 
 Chiefly, I use this page to introduce myself and direct you to my professional pages and facilitating getting in contact with me. Click the relevant icon(s) on the left in Desktop view or click the follow icon on the right in Mobile view.
 
