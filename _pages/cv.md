@@ -37,6 +37,7 @@ Research experience
   
 Presentations
 ======
+* Vejar, Manuel R.; Zengotita, Frances E.; Hixon, Amy E. (2022), Sorption and reduction behavior of plutonium on Al-substituted hematite (α-Fe2O3) and goethite (α-FeOOH) [at circumneutral pH]. American Chemical Society Fall Meeting, Nuclear Chemistry & Technology Division, Environmental Radiochemistry Session. Chicago, Illinois, USA (Oral Presentation).
 * Vejar, Manuel R; Hixon, Amy E. (2021), Plutonium sorption and reduction in the presence of aluminum-doped hematite. Waste Management Symposium 2021, WM2021 Roy G. Post Scholarship Winners (1.2c). Phoenix, Arizona, USA (Virtual, Poster).
 * Vejar, Manuel R; LaHaye, Nicholas; Kim, Christopher S. (2019), Arsenic Spatial Distribution in Mine Wastes: Developing a Proxy for Short and Long-Term Exposure Risks. Goldschmidt 2019, Environmental Impacts of Mine Wastes Session. Barcelona, Spain (Poster).
 * Vejar, Manuel R; Kim, Christopher S. (2019), Arsenic speciation and spatial distribution in mine wastes: Steps towards developing a proxy for long-term exposure risks. Cal Poly Pomona, College of Science Symposium. Pomona, California, USA (Poster).
