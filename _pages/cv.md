@@ -26,7 +26,7 @@ Research experience
 * Graduate Research Assistant, Environmental Actinide Chemistry Lab, Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame
   * July 2019—Present
 
-* Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf TOP Group
+* Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf, Institute of Resource Ecology, TOP Group
   * September 2022—Present
 
 * Research Assistant, Environmental Geochemistry Laboratory, Chapman University
