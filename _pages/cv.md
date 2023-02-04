@@ -27,7 +27,7 @@ Research experience
   * July 2019—Present
 
 * Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf, Institute of Resource Ecology, TOP Group
-  * September 2022—November 2022
+  * September—November 2022
 
 * Research Assistant, Environmental Geochemistry Laboratory, Chapman University
   * June 2017—July 2019
@@ -48,6 +48,10 @@ Presentations
 * Vejar, Manuel R; Jaikla, Chayawan; Lowe, Donald R. (2018), Petrography, geochemistry, and U-Pb detrital zircon geochronology of the Pigeon Point and Atascadero Formations: implications for Late Cretaceous tectonic history of the San Gregorio-Hosgri fault. Stanford University, SURGE Symposium. Stanford, California, USA (Oral & Poster).
 * Vejar, Manuel R; Reilly, Connor J; Kim, Christopher S. (2018), EXAFS and µXRF analysis of arsenic speciation and spatial distribution in mine tailings: Implications for physical weathering, bioaccessibility, and remediation. American Chemical Society, Geochemistry Division, Contaminated Site Remediation through Microbial, Geological & Chemical Processes Session. New Orleans, Louisiana, USA (Poster).
 * Vejar, Manuel R; Diaz, Maria D; Kim, Christopher S. (2016), Effects of Drying Aggregation Conditions on the Uptake and Retention of Pb(II) and Zn(II) onto Iron Oxyhydroxide Nanoparticles. A. Chapman University, SURFEES Commencement and Poster session. B. South Coast Geological Society, Student Poster Session. Santa Ana, California, USA (Oral & Poster).
+
+Invited Talks
+======
+Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Aldin Azzam, Salim Shams; Silva, Clara L. E; Aldair Misael, Wilken; Otte, Florian; Huittinen, Nina M.; Foerstendorf, Harald; Amidani, Lucia; Bazarkina, Elena; Kvashnina, Kristina O.; Hixon, Amy E. Redox behavior of plutonium sorbed to complex iron oxide mineral surfaces: a solid-phase perspective using M4-edge HERFD-XANES. ROBL (Rossendorf Beamline at the ESRF) Workshop. January 2023. Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Dresden, Germany (Virtual).
 
 Teaching
 ======
