@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manny Vejar"
+title                    : "Manuel (Manny) R. Vejar"
 title_separator          : "-"
 name                     : &name "Manny Vejar"
-description              : &description "Manny is a doctoral candidate (4th-year grad student) in Amy Hixon's research group -Notre Dame Actinide Research Laboratories- at the University of Notre Dame"
+description              : &description "Manny is a doctoral candidate (4th-year grad student) at the Notre Dame Actinide Research Laboratories (Advisor: Dr. Amy E. Hixon), University of Notre Dame"
 url                      : https://mrvejar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mrvejar/academicpages.github.io"
