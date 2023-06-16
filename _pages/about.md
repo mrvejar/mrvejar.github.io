@@ -16,11 +16,11 @@ I mainly use this page to introduce myself and direct you to my professional pag
 For posters and other research-related items, visit my ResearchGate by clicking the RG link.
 
 # Academic and Research Experience
-Currently, I study plutonium sorption and reduction behavior in the environment at the mineral-water interface of iron oxides as a function of mineral complexity (Al-substitution in this case). I am working towards growing my expertise with X-ray absorption spectroscopy techniques.
+Currently, I study plutonium sorption and reduction behavior in the environment at the mineral-water interface of iron oxides as a function of mineral complexity (Al-substitution in this case). I am working towards growing my expertise with X-ray absorption spectroscopy techniques (EXAFS and HERFD-XANES).
 
-I received a Bachelor in Science degree in Geology from Cal Poly Pomona in 2019. While working on my B.Sc., I conducted environmental geochemistry research at Chapman University from 2017 to  2019 studying Arsenic speciation using synchrotron X-ray techniques. 
+I received a Bachelor in Science degree in Geology from Cal Poly Pomona in 2019. While working on my B.Sc., I conducted environmental geochemistry research at Chapman University from 2017 to  2019 studying Arsenic speciation using synchrotron X-ray techniques (EXAFS). 
 
-I also participated in two REUs: one at Chapman University in 2016 studying nanoparticle aggregation and its impact on sorption behavior, and later at Stanford Univeristy in 2018 studying sedimentary geology using geochemistry and geochronology.
+I also participated in two REUs: one at Chapman University in 2016 studying nanoparticle aggregation and its impact on sorption behavior, and later at Stanford Univeristy in 2018 studying sedimentary geology using elemental geochemistry and geochronology.
 
 # Leadership Experience
 Co-author, co-organizer, and one of 3 graduate mentors for UROC Readiness program; a community-oriented college preparation and research experience program in partnership with ND TRiO, ND Energy, Self-Healing Communities SB, and South Bend Community School Corporation. My co-organizers/co-mentors (fellow grad students Frances Zengotita and Virginia Rodriguez) and I mentored 2 absolutely brilliant and hard-working high school mentees from Washington HS in South Bend, IN. We guided our mentees through many thrilling experiments and analyses, and we are proud to have mentored them through the 2022 calendar year. 
