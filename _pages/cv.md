@@ -26,7 +26,7 @@ Research experience
 * Graduate Research Assistant, Notre Dame Actinide Research Laboratories, Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame
   * July 2019—Present
 
-* Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf, Institute of Resource Ecology, TOP Group
+* Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf, Institute of Resource Ecology, Electronic Structure Group
   * September—November 2022
 
 * Research Assistant, Environmental Geochemistry Laboratory, Chapman University
@@ -51,7 +51,7 @@ Presentations
 
 Invited Talks
 ======
-Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Aldin Azzam, Salim Shams; Silva, Clara L. E; Aldair Misael, Wilken; Otte, Florian; Huittinen, Nina M.; Foerstendorf, Harald; Amidani, Lucia; Bazarkina, Elena; Kvashnina, Kristina O.; Hixon, Amy E. Redox behavior of plutonium sorbed to complex iron oxide mineral surfaces: a solid-phase perspective using M4-edge HERFD-XANES. ROBL (Rossendorf Beamline at the ESRF) Workshop. January 2023. Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Dresden, Germany (Virtual).
+*Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Aldin Azzam, Salim Shams; Silva, Clara L. E; Aldair Misael, Wilken; Otte, Florian; Huittinen, Nina M.; Foerstendorf, Harald; Amidani, Lucia; Bazarkina, Elena; Kvashnina, Kristina O.; Hixon, Amy E. Redox behavior of plutonium sorbed to complex iron oxide mineral surfaces: a solid-phase perspective using M4-edge HERFD-XANES. ROBL (Rossendorf Beamline at the ESRF) Workshop. January 2023. Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Dresden, Germany (Virtual).
 
 Teaching
 ======
@@ -65,6 +65,10 @@ Teaching
   
 Honors and Awards
 ======
+* Goldschmidt 2023 conference grant, Geochemical Society
+
+* GLOBES Interdisciplinary Mini-Grant 2023, University of Notre Dame
+
 * Graduate Research Fellowship (NSF-GRFP) 2021, National Science Foundation
 
 * Roy G. Post Graduate Scholarship 2021, Waste Management Symposia
