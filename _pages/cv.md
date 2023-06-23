@@ -51,7 +51,7 @@ Presentations
 
 Invited Talks
 ======
-*Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Aldin Azzam, Salim Shams; Silva, Clara L. E; Aldair Misael, Wilken; Otte, Florian; Huittinen, Nina M.; Foerstendorf, Harald; Amidani, Lucia; Bazarkina, Elena; Kvashnina, Kristina O.; Hixon, Amy E. Redox behavior of plutonium sorbed to complex iron oxide mineral surfaces: a solid-phase perspective using M4-edge HERFD-XANES. ROBL (Rossendorf Beamline at the ESRF) Workshop. January 2023. Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Dresden, Germany (Virtual).
+* Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Aldin Azzam, Salim Shams; Silva, Clara L. E; Aldair Misael, Wilken; Otte, Florian; Huittinen, Nina M.; Foerstendorf, Harald; Amidani, Lucia; Bazarkina, Elena; Kvashnina, Kristina O.; Hixon, Amy E. Redox behavior of plutonium sorbed to complex iron oxide mineral surfaces: a solid-phase perspective using M4-edge HERFD-XANES. ROBL (Rossendorf Beamline at the ESRF) Workshop. January 2023. Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Dresden, Germany (Virtual).
 
 Teaching
 ======
