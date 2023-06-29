@@ -57,7 +57,7 @@ Teaching
 ======
 * University of Notre Dame, Graduate Teaching Assistant
   * Department of Civil & Environmental Engineering & Earth Sciences 
-    * August 2019—Present
+    * August 2019—December 2021
 
 * Santiago Canyon College (Rancho Santiago Community College District), Instructional Assistant 
   * Earth Sciences Department
