@@ -24,14 +24,14 @@ Education
 Research experience
 ======
 1.	Graduate Research Assistant, Environmental Actinide Chemistry Laboratory, Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame
-    a.	Advisor: Dr. Amy E. Hixon
-    b.	July 2019—Present
-    c.	Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite.
-      i.	Synthesize and characterize (using powder x-ray diffraction, N2 sorption BET surface area, dynamic light scattering, scanning electron microscope imaging, inductively coupled plasma-optical emission spectroscopy, potentiometric titrations) aluminum-substituted hematite, and aluminum-substituted goethite.
-      ii.	Prepare Pu(V) working solutions for experiments from Pu solutions with initially mixed valence states.
-      iii.	Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
-      iv.	Analyze and determine plutonium aqueous concentrations and oxidation state distributions from working solutions and batch sorption experiments using liquid scintillation counting.
-      v.	Collect (at the Stanford Synchrotron Radiation Lightsource and the Advanced Photon Source) and analyze L3-edge X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) data of plutonium-bearing samples from sorption experiments with iron oxide minerals.
+  * Advisor: Dr. Amy E. Hixon
+  * July 2019—Present
+  * Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite.
+    * Synthesize and characterize (using powder x-ray diffraction, N2 sorption BET surface area, dynamic light scattering, scanning electron microscope imaging, inductively coupled plasma-optical emission spectroscopy, potentiometric titrations) aluminum-substituted hematite, and aluminum-substituted goethite.
+    * Prepare Pu(V) working solutions for experiments from Pu solutions with initially mixed valence states.
+    * Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
+    *	Analyze and determine plutonium aqueous concentrations and oxidation state distributions from working solutions and batch sorption experiments using liquid scintillation counting.
+    * Collect (at the Stanford Synchrotron Radiation Lightsource and the Advanced Photon Source) and analyze L3-edge X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) data of plutonium-bearing samples from sorption experiments with iron oxide minerals.
 3.	Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf (as a collaboration with the University of Notre Dame).
   a.	Advisor: Dr. Kristina O. Kvashnina
   b.	September—November 2022
