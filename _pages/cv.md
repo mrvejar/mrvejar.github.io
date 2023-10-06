@@ -23,23 +23,48 @@ Education
 
 Research experience
 ======
-* Graduate Research Assistant, Notre Dame Actinide Research Laboratories, Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame
-  * July 2019—Present
+1.	Graduate Research Assistant, Environmental Actinide Chemistry Laboratory, Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame
+  a.	Advisor: Dr. Amy E. Hixon
+  b.	July 2019—Present
+  c.	Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite.
+    i.	Synthesize and characterize (using powder x-ray diffraction, N2 sorption BET surface area, dynamic light scattering, scanning electron microscope imaging, inductively coupled plasma-optical emission spectroscopy, potentiometric titrations) aluminum-substituted hematite, and aluminum-substituted goethite.
+    ii.	Prepare Pu(V) working solutions for experiments from Pu solutions with initially mixed valence states.
+    iii.	Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
+    iv.	Analyze and determine plutonium aqueous concentrations and oxidation state distributions from working solutions and batch sorption experiments using liquid scintillation counting.
+    v.	Collect (at the Stanford Synchrotron Radiation Lightsource and the Advanced Photon Source) and analyze L3-edge X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) data of plutonium-bearing samples from sorption experiments with iron oxide minerals.
+2.	Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf (as a collaboration with the University of Notre Dame).
+  a.	Advisor: Dr. Kristina O. Kvashnina
+  b.	September—November 2022
+  c.	Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite using synchrotron-based X-ray spectroscopy.
+    i.	Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
+    ii.	Collect (at the European Synchrotron Research Facility) and analyze M4-edge and L3-edge high energy resolution X-ray absorption near-edge structure (HERFD-XANES) of plutonium-bearing samples from sorption experiments with iron oxide minerals.
+3.	Research Assistant, Environmental Geochemistry Laboratory, Chapman University
+  a.	Advisor: Dr. Christopher Kim
+  b.	June 2017—July 2019
+  c.	Study arsenic spatial distribution in mine wastes, working towards developing a proxy for short- and long-term exposure risks using extended X-ray absorption fine structure (EXAFS) spectroscopy and micro X-ray fluorescence (µXRF) imaging. 
+    i.	Collect (at the Stanford Synchrotron Radiation Lightsource) and analyze K-edge EXAFS and XANES data from arsenic-contaminated mine-tailing samples.
+    1.	Collect similar X-ray absorption spectroscopy data from aggregated nanoscale goethite with sorbed Cu and Zn for other projects.
+    ii.	Collect (at the Stanford Synchrotron Radiation Lightsource) and analyze µXRF maps of mine tailings to quantify arsenic and iron spatial distributions.
+    iii.	Explore and co-develop (minor role) a machine-learning-assisted method to identify mine tailings and quantify arsenic from XRF maps using QGIS and QPath.
+4.	Stanford Earth Summer Undergraduate Research in Geoscience and Engineering (SURGE), Sedimentary Geology Group, Stanford University
+  a.	Advisor: Dr. Donald Lowe, Mentor: Dr. Chayawan Jaikla
+  b.	June—August 2018
+  c.	Apply petrography, geochemistry, and U-Pb detrital zircon geochronology of the Pigeon Point and Atascadero Formations to study the geologic implications for Late Cretaceous tectonic history of the San Gregorio-Hosgri fault.
+    i.	Collect and map field samples of turbidites and mudstones.
+    ii.	Conduct mineral separations of zircon crystals from whole-rock turbidite and mudstone samples for U-Pb geochronology by secondary-ion mass spectrometry.
+    iii.	Examine and quantify minerals in petrographic samples of turbidites and mudstones.
+    iv.	Analyze rare-earth element and major-element composition data by inductive coupling plasma mass spectrometry of mudstone samples.
+5.	Summer Undergraduate Research Fellowship in Environmental and Earth Sciences (SURFEES), Environmental Geochemistry Laboratory, Chapman University
+  a.	Advisor: Dr. Christopher Kim
+  b.	June—August 2016
+  c.	Study the effects of drying aggregation conditions on the uptake and retention of Pb(II) and Zn(II) onto iron oxyhydroxide nanoparticles.
+    i.	Synthesize, aggregate, and characterize (using BET surface area, dynamic light scattering, scanning electron microscope imaging) nanoscale goethite in aqueous suspension.
+    ii.	Conduct batch adsorption and desorption experiments with aggregated nanoscale goethite and Pb(II) and Zn(II)
+    iii.	Analyze elemental concentrations of Pb(II) and Zn(II) using atomic absorption spectrometry.
 
-* Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf, Institute of Resource Ecology, Electronic Structure Group
-  * September—November 2022
-
-* Research Assistant, Environmental Geochemistry Laboratory, Chapman University
-  * June 2017—July 2019
-
-* Stanford Earth Summer Undergraduate Research in Geoscience and Engineering (SURGE), Sedimentary Geology Group, Stanford University
-  * June—August 2018
-
-* Summer Undergraduate Research Fellowship in Environmental and Earth Sciences (SURFEES), Environmental Geochemistry Lab, Chapman University
-  * June—August 2016
-  
 Presentations
 ======
+* Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Redox Behaviour and Speciation of Plutonium in the Presence of Aluminium-Doped Iron Oxide Mineral Surfaces. 18th International Conference on Chemistry and Migration Behaviour of Actinides and Fission Products in the Geosphere, Redox Reactions and Radiolysis Effects session. September 2023. Nantes, France (Poster PA4-13 322).
 * Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Shams Aldin Azzam, Salim; Amidani, Lucia; Bazarkina, Elena F.; Silva, Clara L.; Aldair Misael, Wilken; Otte, Florian; Huittinen, Nina M.; Kvashnina, Kristina O.; Hixon, Amy E. Redox behaviour of plutonium in the presence of Al-doped iron oxide mineral surfaces: A solid-phase perspective using HERFD-XANES. Goldschmidt 2023, Environmental Geochemistry of Hazardous Materials through Applications of Synchrotron X-ray Methods Session. July 2023. Lyon, France (Oral Presentation).
 * Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Hixon, Amy E. Uptake and reduction behavior of plutonium on Al-substituted hematite (α-Fe2O3) and Al-substituted goethite (α-FeOOH). 5th International Workshop on Advanced Techniques in Actinide Spectroscopy and 9th Workshop on Speciation, Techniques, and Facilities for Synchrotron Radiation (ATAS-AnXAS 2022). October 2022. Grenoble, Isere, France (Poster).
 * Vejar, Manuel R.; Zengotita, Frances E.; Hixon, Amy E. (2022), Sorption and reduction behavior of plutonium on Al-substituted hematite (α-Fe2O3) and goethite (α-FeOOH) [at circumneutral pH]. American Chemical Society Fall Meeting, Nuclear Chemistry & Technology Division, Environmental Radiochemistry Session. Chicago, Illinois, USA (Oral Presentation).
