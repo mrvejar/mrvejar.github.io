@@ -24,21 +24,21 @@ Education
 Research experience
 ======
 1.	Graduate Research Assistant, Environmental Actinide Chemistry Laboratory, Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame
-  a.	Advisor: Dr. Amy E. Hixon
-  b.	July 2019—Present
-  c.	Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite.
-    i.	Synthesize and characterize (using powder x-ray diffraction, N2 sorption BET surface area, dynamic light scattering, scanning electron microscope imaging, inductively coupled plasma-optical emission spectroscopy, potentiometric titrations) aluminum-substituted hematite, and aluminum-substituted goethite.
-    ii.	Prepare Pu(V) working solutions for experiments from Pu solutions with initially mixed valence states.
-    iii.	Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
-    iv.	Analyze and determine plutonium aqueous concentrations and oxidation state distributions from working solutions and batch sorption experiments using liquid scintillation counting.
-    v.	Collect (at the Stanford Synchrotron Radiation Lightsource and the Advanced Photon Source) and analyze L3-edge X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) data of plutonium-bearing samples from sorption experiments with iron oxide minerals.
-2.	Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf (as a collaboration with the University of Notre Dame).
+    a.	Advisor: Dr. Amy E. Hixon
+    b.	July 2019—Present
+    c.	Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite.
+      i.	Synthesize and characterize (using powder x-ray diffraction, N2 sorption BET surface area, dynamic light scattering, scanning electron microscope imaging, inductively coupled plasma-optical emission spectroscopy, potentiometric titrations) aluminum-substituted hematite, and aluminum-substituted goethite.
+      ii.	Prepare Pu(V) working solutions for experiments from Pu solutions with initially mixed valence states.
+      iii.	Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
+      iv.	Analyze and determine plutonium aqueous concentrations and oxidation state distributions from working solutions and batch sorption experiments using liquid scintillation counting.
+      v.	Collect (at the Stanford Synchrotron Radiation Lightsource and the Advanced Photon Source) and analyze L3-edge X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) data of plutonium-bearing samples from sorption experiments with iron oxide minerals.
+3.	Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf (as a collaboration with the University of Notre Dame).
   a.	Advisor: Dr. Kristina O. Kvashnina
   b.	September—November 2022
   c.	Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite using synchrotron-based X-ray spectroscopy.
     i.	Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
     ii.	Collect (at the European Synchrotron Research Facility) and analyze M4-edge and L3-edge high energy resolution X-ray absorption near-edge structure (HERFD-XANES) of plutonium-bearing samples from sorption experiments with iron oxide minerals.
-3.	Research Assistant, Environmental Geochemistry Laboratory, Chapman University
+4.	Research Assistant, Environmental Geochemistry Laboratory, Chapman University
   a.	Advisor: Dr. Christopher Kim
   b.	June 2017—July 2019
   c.	Study arsenic spatial distribution in mine wastes, working towards developing a proxy for short- and long-term exposure risks using extended X-ray absorption fine structure (EXAFS) spectroscopy and micro X-ray fluorescence (µXRF) imaging. 
@@ -46,7 +46,7 @@ Research experience
     1.	Collect similar X-ray absorption spectroscopy data from aggregated nanoscale goethite with sorbed Cu and Zn for other projects.
     ii.	Collect (at the Stanford Synchrotron Radiation Lightsource) and analyze µXRF maps of mine tailings to quantify arsenic and iron spatial distributions.
     iii.	Explore and co-develop (minor role) a machine-learning-assisted method to identify mine tailings and quantify arsenic from XRF maps using QGIS and QPath.
-4.	Stanford Earth Summer Undergraduate Research in Geoscience and Engineering (SURGE), Sedimentary Geology Group, Stanford University
+5.	Stanford Earth Summer Undergraduate Research in Geoscience and Engineering (SURGE), Sedimentary Geology Group, Stanford University
   a.	Advisor: Dr. Donald Lowe, Mentor: Dr. Chayawan Jaikla
   b.	June—August 2018
   c.	Apply petrography, geochemistry, and U-Pb detrital zircon geochronology of the Pigeon Point and Atascadero Formations to study the geologic implications for Late Cretaceous tectonic history of the San Gregorio-Hosgri fault.
@@ -54,7 +54,7 @@ Research experience
     ii.	Conduct mineral separations of zircon crystals from whole-rock turbidite and mudstone samples for U-Pb geochronology by secondary-ion mass spectrometry.
     iii.	Examine and quantify minerals in petrographic samples of turbidites and mudstones.
     iv.	Analyze rare-earth element and major-element composition data by inductive coupling plasma mass spectrometry of mudstone samples.
-5.	Summer Undergraduate Research Fellowship in Environmental and Earth Sciences (SURFEES), Environmental Geochemistry Laboratory, Chapman University
+6.	Summer Undergraduate Research Fellowship in Environmental and Earth Sciences (SURFEES), Environmental Geochemistry Laboratory, Chapman University
   a.	Advisor: Dr. Christopher Kim
   b.	June—August 2016
   c.	Study the effects of drying aggregation conditions on the uptake and retention of Pb(II) and Zn(II) onto iron oxyhydroxide nanoparticles.
