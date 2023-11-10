@@ -78,6 +78,8 @@ Presentations
 
 Invited Talks
 ======
+* Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Plutonium sorption and reduction in the presence of aluminium-doped iron (oxyhydr)oxides: Exploring the use of well-established and emerging X-ray absorption spectroscopies. X-ray Spectroscopy Discussion Group, Pacific Northwest National Laboratory. November 7, 2023.
+* Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Plutonium sorption and reduction in the presence of aluminium-doped iron (oxyhydr)oxides. Soil and Environmental Biogeochemistry Group (Fendorf), Stanford University Doerr School of Sustainability. November 2, 2023.
 * Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Aldin Azzam, Salim Shams; Silva, Clara L. E; Aldair Misael, Wilken; Otte, Florian; Huittinen, Nina M.; Foerstendorf, Harald; Amidani, Lucia; Bazarkina, Elena; Kvashnina, Kristina O.; Hixon, Amy E. Redox behavior of plutonium sorbed to complex iron oxide mineral surfaces: a solid-phase perspective using M4-edge HERFD-XANES. ROBL (Rossendorf Beamline at the ESRF) Workshop. January 2023. Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Dresden, Germany (Virtual).
 
 Teaching
@@ -92,6 +94,8 @@ Teaching
   
 Honors and Awards
 ======
+* Postdoctoral Recruitment Initiative in Sciences and Medicine (PRISM) 2023, Stanford University
+
 * Goldschmidt 2023 conference grant, Geochemical Society
 
 * GLOBES Interdisciplinary Mini-Grant 2023, University of Notre Dame
