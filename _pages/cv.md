@@ -13,7 +13,7 @@ Education
 ======
 * Doctor of Philosophy (Ph.D.)—Civil & Environmental Engineering & Earth Sciences
   * University of Notre Dame
-  * Expected Completion Date: Spring 2024
+  * Graduation Date: Spring 2024
   * Advisor: Dr. Amy Hixon
 
 * Bachelor of Science (B.S.)—Geology
@@ -23,7 +23,13 @@ Education
 
 Research experience
 ======
-1.	Graduate Research Assistant, Environmental Actinide Chemistry Laboratory, Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame
+1. Postdoctoral scholar, Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory
+  * Supervisors: Dr. Jocelyn Richardson, Dr. Ritimukta Sarangi
+  * June 2024—Present
+    * Supporting users and collaborators prior to and during planned x-ray mapping and x-ray spectroscopy experiments at the Stanford Synchrotron Radiation Lightsource.
+    * Collecting, analyzing, and interpreting x-ray fluorescence mapping and X-ray absorption near-edge structure spectroscopy data.
+    * Working closely with DOE Biological and Environmental Research -funded collaborators to interpret data, and assist prospective users in developing experiment planning and user proposals.
+2.	Graduate Research Assistant, Environmental Actinide Chemistry Laboratory, Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame
   * Advisor: Dr. Amy E. Hixon
   * July 2019—Present
   * Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite.
@@ -32,14 +38,14 @@ Research experience
     * Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
     *	Analyze and determine plutonium aqueous concentrations and oxidation state distributions from working solutions and batch sorption experiments using liquid scintillation counting.
     * Collect (at the Stanford Synchrotron Radiation Lightsource and the Advanced Photon Source) and analyze L3-edge X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) data of plutonium-bearing samples from sorption experiments with iron oxide minerals.
-2. Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf (as a collaboration with the University of Notre Dame).
+3. Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf (as a collaboration with the University of Notre Dame).
   * Advisor: Dr. Kristina O. Kvashnina
   * September—November 2022
   * Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite using synchrotron-based X-ray spectroscopy.
     * Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
     * Collect (at the European Synchrotron Research Facility) and analyze Pu M4-edge and L3-edge high energy resolution X-ray absorption near-edge structure (HERFD-XANES) of plutonium-bearing samples from sorption experiments with iron oxide minerals.
     * Collect (at the European Synchrotron Research Facility) and analyze Fe K-edge high energy resolution X-ray absorption near-edge structure (HERFD-XANES) Al-doped and non-doped iron oxide minerals.
-3.	Research Assistant, Environmental Geochemistry Laboratory, Chapman University
+4.	Research Assistant, Environmental Geochemistry Laboratory, Chapman University
   * Advisor: Dr. Christopher Kim
   * June 2017—July 2019
   * Study arsenic spatial distribution in mine wastes, working towards developing a proxy for short- and long-term exposure risks using extended X-ray absorption fine structure (EXAFS) spectroscopy and micro X-ray fluorescence (µXRF) imaging. 
@@ -47,7 +53,7 @@ Research experience
     * Collect similar X-ray absorption spectroscopy data from aggregated nanoscale goethite with sorbed Cu and Zn for other projects.
     * Collect (at the Stanford Synchrotron Radiation Lightsource) and analyze µXRF maps of mine tailings to quantify arsenic and iron spatial distributions.
     * Explore and co-develop (minor role) a machine-learning-assisted method to identify mine tailings and quantify arsenic from XRF maps using QGIS and QPath.
-4.	Stanford Earth Summer Undergraduate Research in Geoscience and Engineering (SURGE), Sedimentary Geology Group, Stanford University
+5.	Stanford Earth Summer Undergraduate Research in Geoscience and Engineering (SURGE), Sedimentary Geology Group, Stanford University
   * Advisor: Dr. Donald Lowe, Mentor: Dr. Chayawan Jaikla
   * June—August 2018
   * Apply petrography, geochemistry, and U-Pb detrital zircon geochronology of the Pigeon Point and Atascadero Formations to study the geologic implications for Late Cretaceous tectonic history of the San Gregorio-Hosgri fault.
@@ -55,7 +61,7 @@ Research experience
     * Conduct mineral separations of zircon crystals from whole-rock turbidite and mudstone samples for U-Pb geochronology by secondary-ion mass spectrometry.
     * Examine and quantify minerals in petrographic samples of turbidites and mudstones.
     * Analyze rare-earth element and major-element composition data by inductive coupling plasma mass spectrometry of mudstone samples.
-5.	Summer Undergraduate Research Fellowship in Environmental and Earth Sciences (SURFEES), Environmental Geochemistry Laboratory, Chapman University
+6.	Summer Undergraduate Research Fellowship in Environmental and Earth Sciences (SURFEES), Environmental Geochemistry Laboratory, Chapman University
   * Advisor: Dr. Christopher Kim
   * June—August 2016
   * Study the effects of drying aggregation conditions on the uptake and retention of Pb(II) and Zn(II) onto iron oxyhydroxide nanoparticles.
@@ -78,6 +84,8 @@ Presentations
 
 Invited Talks
 ======
+* Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Zhukovskyi, Maksym; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Beutner, Sabrina; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Redox and Speciation Behavior of Plutonium in Mineralogically Complex Systems: the Role of Aluminum Substitution in Iron (Oxyhydr)Oxides. NextGen Nonproliferation Leadership Development Program, Lawrence Berkeley National Laboratory. March 29, 2024.
+* Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Redox and Speciation of Plutonium in Mineralogically Complex Systems: the Role of Aluminum Substitution in Iron (Oxyhydr)Oxides. Materials Science and Technology colloquium, Los Alamos National Laboratory. February 21, 2024.
 * Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Plutonium sorption and reduction in the presence of aluminium-doped iron (oxyhydr)oxides: Exploring the use of well-established and emerging X-ray absorption spectroscopies. X-ray Spectroscopy Discussion Group, Pacific Northwest National Laboratory. November 7, 2023.
 * Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Plutonium sorption and reduction in the presence of aluminium-doped iron (oxyhydr)oxides. Soil and Environmental Biogeochemistry Group (Fendorf), Stanford University Doerr School of Sustainability. November 2, 2023.
 * Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Aldin Azzam, Salim Shams; Silva, Clara L. E; Aldair Misael, Wilken; Otte, Florian; Huittinen, Nina M.; Foerstendorf, Harald; Amidani, Lucia; Bazarkina, Elena; Kvashnina, Kristina O.; Hixon, Amy E. Redox behavior of plutonium sorbed to complex iron oxide mineral surfaces: a solid-phase perspective using M4-edge HERFD-XANES. ROBL (Rossendorf Beamline at the ESRF) Workshop. January 2023. Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Dresden, Germany (Virtual).
