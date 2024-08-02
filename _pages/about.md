@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 # About me
-I am a PhD candidate at the University of Notre Dame (USA) conducting research in environmental actinide geochemistry, employing primarily low-temperature aqueous chemistry and geochemistry, and synchrotron x-ray spectroscopy techniques. 
+I am a Postdoctoral Scholar at the Stanford Synchrotron Radiation Lightsource conducting research in rhizosphere materials using synchrotron x-ray imaging and spectroscopy techniques. 
 
 I mainly use this page to introduce myself and direct you to my professional pages and facilitating getting in contact with me. Click the relevant icon(s) on the left in Desktop view or click the follow icon on the right in Mobile view.
 
-For posters and other research-related items, visit my ResearchGate by clicking the RG link.
+For publications, presentations, and other research-related items, visit my ResearchGate by clicking the RG link.
 
 # Academic and Research Experience
-Currently, I study plutonium sorption and reduction behavior in the environment at the mineral-water interface of iron oxides as a function of mineral complexity (Al-substitution in this case). I am working towards growing my expertise with X-ray absorption spectroscopy techniques (EXAFS and HERFD-XANES).
+Currently, I study rhizosphere-related materials using X-ray fluorescence imaging/mapping (XFM) and X-ray absorption near-edge structure (XANES) spectroscopy.
+
+During my PhD, I studied plutonium sorption and reduction behavior in the environment at the mineral-water interface of iron oxides as a function of mineral complexity (Al-substitution in this case). I am working towards growing my expertise with X-ray absorption spectroscopy techniques (EXAFS and HERFD-XANES).
 
 I received a Bachelor in Science degree in Geology from Cal Poly Pomona in 2019. While working on my B.Sc., I conducted environmental geochemistry research at Chapman University from 2017 to  2019 studying Arsenic speciation using synchrotron X-ray techniques (EXAFS). 
 
