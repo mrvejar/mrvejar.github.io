@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Manuel (Manny) R. Vejar"
 title_separator          : "-"
 name                     : &name "Manny Vejar"
-description              : &description "Manny is a doctoral candidate (5th-year grad student) at the Notre Dame Actinide Research Laboratories (Advisor: Dr. Amy E. Hixon), University of Notre Dame"
+description              : &description "Manny is a postdoctoral scholar at SLAC National Accelerator Laboratory"
 url                      : https://mrvejar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mrvejar/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Manuel (Manny) Vejar"
   avatar           : "MV at BM20.jpg"
-  bio              : "Doctoral Candidate (5th-year) at the Notre Dame Actinide Research Laboratories (Advisor: Dr. Amy E. Hixon), University of Notre Dame"
-  location         : "Notre Dame, IN"
-  employer         : "University of Notre Dame"
+  bio              : "Postdoctoral scholar at SLAC National Accelerator Laboratory"
+  location         : "Bay Area, CA"
+  employer         : "SLAC National Accelerator Laboratory"
   pubmed           : 
   #googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "mvejar@nd.edu"
+  email            : "vejar@slac.stanford.edu"
   researchgate     : "https://www.researchgate.net/profile/Manuel-Vejar"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ManuelRVejar"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
