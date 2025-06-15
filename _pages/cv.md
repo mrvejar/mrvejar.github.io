@@ -26,9 +26,9 @@ Research experience
 1. Postdoctoral scholar, Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory
   * Supervisors: Dr. Jocelyn Richardson, Dr. Ritimukta Sarangi
   * June 2024—Present
-    * Supporting users and collaborators prior to and during planned x-ray mapping and x-ray spectroscopy experiments at the Stanford Synchrotron Radiation Lightsource.
-    * Collecting, analyzing, and interpreting x-ray fluorescence mapping and X-ray absorption near-edge structure spectroscopy data.
-    * Working closely with DOE Biological and Environmental Research -funded collaborators to interpret data, and assist prospective users in developing experiment planning and user proposals.
+      * Collecting, analyzing, and interpreting x-ray fluorescence mapping, X-ray absorption near-edge structure (XANES) spectroscopy, and extended X-ray absorption fine structure (EXAFS) spectroscopy data at the Stanford Synchrotron Radiation Lightsource.
+      * Supporting users and collaborators prior to and during planned X-ray mapping and X-ray spectroscopy experiments, and assisting prospective users to develop experiment planning and user proposals.
+
 2.	Graduate Research Assistant, Environmental Actinide Chemistry Laboratory, Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame
   * Advisor: Dr. Amy E. Hixon
   * July 2019—Present
@@ -68,6 +68,14 @@ Research experience
     * Synthesize, aggregate, and characterize (using BET surface area, dynamic light scattering, scanning electron microscope imaging) nanoscale goethite in aqueous suspension.
     * Conduct batch adsorption and desorption experiments with aggregated nanoscale goethite and Pb(II) and Zn(II)
     * Analyze elemental concentrations of Pb(II) and Zn(II) using atomic absorption spectrometry.
+
+Publications
+======
+* Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina; Beutner, Sabrina; Bazarkina, Elena F.; Amidani, Lucia; Kvashnina, Kristina O.; and Hixon, Amy E. “Relationship between mineralogically complex iron (oxyhydr)oxides and plutonium sorption and reduction: a high-energy resolution X-ray absorption spectroscopy perspective” Environ. Sci. Technol. 2025, Accepted. https://doi.org/10.1021/acs.est.4c13899 
+* Zengotita, F.E.; Lahiri, N.; Engelhard, M.H.; Zhukovskyi, M.; Vejar, M.R.; Rosso, K.M.; Pearce, C.I.; Hixon, A.E. “Carbon mediated oxygen vacancy creation at hematite interfaces.” J. Phys. Chem. C 2025, 129, 15, 7316–7326. https://doi.org/10.1021/acs.jpcc.4c08423 
+* Vejar, Manuel R. (2024). “Redox and Speciation Behavior of Plutonium in Mineralogically Complex Systems: The Role of Aluminum-Substitution in Iron (Oxyhydr)Oxides.” University of Notre Dame. Dissertation. https://doi.org/10.7274/25565247.v1
+* Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; and Hixon, Amy E. “Uptake and speciation behavior of plutonium in the presence of mineralogically complex iron (oxyhydr)oxide minerals.” In preparation.
+Zengotita, Frances E.; Vejar, Manuel R.; Bone, Sharon E.; Zhukovskyi, Maksym; and Hixon, Amy E. “Influence of morphology in nanoscale and Al-substituted hematites on the sorption of plutonium.” In preparation.
 
 Presentations
 ======
