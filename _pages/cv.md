@@ -75,7 +75,7 @@ Publications
 * Zengotita, F.E.; Lahiri, N.; Engelhard, M.H.; Zhukovskyi, M.; Vejar, M.R.; Rosso, K.M.; Pearce, C.I.; Hixon, A.E. “Carbon mediated oxygen vacancy creation at hematite interfaces.” J. Phys. Chem. C 2025, 129, 15, 7316–7326. https://doi.org/10.1021/acs.jpcc.4c08423 
 * Vejar, Manuel R. (2024). “Redox and Speciation Behavior of Plutonium in Mineralogically Complex Systems: The Role of Aluminum-Substitution in Iron (Oxyhydr)Oxides.” University of Notre Dame. Dissertation. https://doi.org/10.7274/25565247.v1
 * Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; and Hixon, Amy E. “Uptake and speciation behavior of plutonium in the presence of mineralogically complex iron (oxyhydr)oxide minerals.” In preparation.
-Zengotita, Frances E.; Vejar, Manuel R.; Bone, Sharon E.; Zhukovskyi, Maksym; and Hixon, Amy E. “Influence of morphology in nanoscale and Al-substituted hematites on the sorption of plutonium.” In preparation.
+* Zengotita, Frances E.; Vejar, Manuel R.; Bone, Sharon E.; Zhukovskyi, Maksym; and Hixon, Amy E. “Influence of morphology in nanoscale and Al-substituted hematites on the sorption of plutonium.” In preparation.
 
 Presentations
 ======
