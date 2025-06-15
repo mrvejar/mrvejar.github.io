@@ -13,7 +13,7 @@ Education
 ======
 * Doctor of Philosophy (Ph.D.)—Civil & Environmental Engineering & Earth Sciences
   * University of Notre Dame
-  * Graduation Date: Spring 2024
+  * Graduation Date: May 2024
   * Advisor: Dr. Amy Hixon
 
 * Bachelor of Science (B.S.)—Geology
@@ -23,7 +23,7 @@ Education
 
 Research experience
 ======
-1. Postdoctoral scholar, Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory
+1. Postdoctoral scholar, Stanford University and Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory
   * Supervisors: Dr. Jocelyn Richardson, Dr. Ritimukta Sarangi
   * June 2024—Present
       * Collecting, analyzing, and interpreting x-ray fluorescence mapping, X-ray absorption near-edge structure (XANES) spectroscopy, and extended X-ray absorption fine structure (EXAFS) spectroscopy data at the Stanford Synchrotron Radiation Lightsource.
@@ -79,6 +79,8 @@ Publications
 
 Presentations
 ======
+* Vejar, Manuel R.; Richardson, Jocelyn A.; Sarangi, Ritimukta. Chemical X-ray Snapshots of Rhizosphere Processes: Visualizing Metal Speciation and Transformations to Uncover Plant-Microbe Interactions. SSRL & LCLS Users’ Meeting. Poster session. September 2024. Menlo Park, CA (Poster).
+* Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Kvashnina, Kristina O.; Hixon, Amy E. Influence of Mineral Complexity on Plutonium Sorption and Reduction. Plutonium Futures - The Science 2024, Environmental Chemistry: IV session. September 10, 2024. Charleston, South Carolina, USA (Oral, Amy E. Hixon).
 * Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Redox Behaviour and Speciation of Plutonium in the Presence of Aluminium-Doped Iron Oxide Mineral Surfaces. 18th International Conference on Chemistry and Migration Behaviour of Actinides and Fission Products in the Geosphere, Redox Reactions and Radiolysis Effects session. September 2023. Nantes, France (Poster PA4-13 322).
 * Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Shams Aldin Azzam, Salim; Amidani, Lucia; Bazarkina, Elena F.; Silva, Clara L.; Aldair Misael, Wilken; Otte, Florian; Huittinen, Nina M.; Kvashnina, Kristina O.; Hixon, Amy E. Redox behaviour of plutonium in the presence of Al-doped iron oxide mineral surfaces: A solid-phase perspective using HERFD-XANES. Goldschmidt 2023, Environmental Geochemistry of Hazardous Materials through Applications of Synchrotron X-ray Methods Session. July 2023. Lyon, France (Oral Presentation).
 * Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Hixon, Amy E. Uptake and reduction behavior of plutonium on Al-substituted hematite (α-Fe2O3) and Al-substituted goethite (α-FeOOH). 5th International Workshop on Advanced Techniques in Actinide Spectroscopy and 9th Workshop on Speciation, Techniques, and Facilities for Synchrotron Radiation (ATAS-AnXAS 2022). October 2022. Grenoble, Isere, France (Poster).
@@ -92,6 +94,7 @@ Presentations
 
 Invited Talks
 ======
+* Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Using Synchrotron X-ray Techniques to Study the Chemical Behavior of Plutonium at the Mineral-Water Interface. SSRL & LCLS Users’ Meeting. Environmental and Nuclear Radiological Systems session. September 2024. Menlo Park, California, USA.
 * Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Zhukovskyi, Maksym; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Beutner, Sabrina; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Redox and Speciation Behavior of Plutonium in Mineralogically Complex Systems: the Role of Aluminum Substitution in Iron (Oxyhydr)Oxides. NextGen Nonproliferation Leadership Development Program, Lawrence Berkeley National Laboratory. March 29, 2024.
 * Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Redox and Speciation of Plutonium in Mineralogically Complex Systems: the Role of Aluminum Substitution in Iron (Oxyhydr)Oxides. Materials Science and Technology colloquium, Los Alamos National Laboratory. February 21, 2024.
 * Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina M.; Bazarkina, Elena F.; Kvashnina, Kristina O.; Hixon, Amy E. Plutonium sorption and reduction in the presence of aluminium-doped iron (oxyhydr)oxides: Exploring the use of well-established and emerging X-ray absorption spectroscopies. X-ray Spectroscopy Discussion Group, Pacific Northwest National Laboratory. November 7, 2023.
