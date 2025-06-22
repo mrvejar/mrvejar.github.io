@@ -71,7 +71,7 @@ Research experience
 
 Publications
 ======
-* Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina; Beutner, Sabrina; Bazarkina, Elena F.; Amidani, Lucia; Kvashnina, Kristina O.; and Hixon, Amy E. “Relationship between mineralogically complex iron (oxyhydr)oxides and plutonium sorption and reduction: a high-energy resolution X-ray absorption spectroscopy perspective” Environ. Sci. Technol. 2025, Accepted. https://doi.org/10.1021/acs.est.4c13899 
+* Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina; Beutner, Sabrina; Bazarkina, Elena F.; Amidani, Lucia; Kvashnina, Kristina O.; and Hixon, Amy E. “Relationship between mineralogically complex iron (oxyhydr)oxides and plutonium sorption and reduction: a high-energy resolution X-ray absorption spectroscopy perspective” Environ. Sci. Technol. 2025, 59, 23, 11756–11766. https://doi.org/10.1021/acs.est.4c13899  
 * Zengotita, F.E.; Lahiri, N.; Engelhard, M.H.; Zhukovskyi, M.; Vejar, M.R.; Rosso, K.M.; Pearce, C.I.; Hixon, A.E. “Carbon mediated oxygen vacancy creation at hematite interfaces.” J. Phys. Chem. C 2025, 129, 15, 7316–7326. https://doi.org/10.1021/acs.jpcc.4c08423 
 * Vejar, Manuel R. (2024). “Redox and Speciation Behavior of Plutonium in Mineralogically Complex Systems: The Role of Aluminum-Substitution in Iron (Oxyhydr)Oxides.” University of Notre Dame. Dissertation. https://doi.org/10.7274/25565247.v1
 * Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; and Hixon, Amy E. “Uptake and speciation behavior of plutonium in the presence of mineralogically complex iron (oxyhydr)oxide minerals.” In preparation.
