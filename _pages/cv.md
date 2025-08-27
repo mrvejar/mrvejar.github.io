@@ -25,57 +25,68 @@ Research experience
 ======
 1. Postdoctoral scholar, Stanford University and Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory
   * Supervisors: Dr. Jocelyn Richardson, Dr. Ritimukta Sarangi
-  * June 2024—Present
-      * Collecting, analyzing, and interpreting x-ray fluorescence mapping, X-ray absorption near-edge structure (XANES) spectroscopy, and extended X-ray absorption fine structure (EXAFS) spectroscopy data at the Stanford Synchrotron Radiation Lightsource.
-      * Supporting users and collaborators prior to and during planned X-ray mapping and X-ray spectroscopy experiments, and assisting prospective users to develop experiment planning and user proposals.
+  * May 2024—Present
+    * Working closely with DOE Biological and Environmental Research-funded collaborators to collect and interpret data assessing metal and nutrient transformations, and connect analytical results to stream ecology and geochemistry, symbiotic plant-microbe interactions, and nutrient translocation  and transformations within plant tissues.
+      * Collecting, analyzing, and interpreting micro-X-ray fluorescence (µXRF) mapping, X-ray absorption near-edge structure (XANES) spectroscopy, and extended X-ray absorption fine structure (EXAFS) spectroscopy data, in the tender and hard X-ray energy regimes, from biological and environmental materials, targeting multiple elements (e.g. sulfur, potassium, manganese, iron, copper, and zinc), at the Stanford Synchrotron Radiation Lightsource.
+      * Supporting users and collaborators prior to, during, and after planned XRF mapping and X-ray spectroscopy beamtime experiments with software support, sample preparation, and optimized data collection, analysis, and interpretation.
+      * Assisting prospective users with experiment planning and crafting and submitting successful general user proposals for beamtime at SSRL.
+      * Collecting and curating synchrotron-based infrared microspectroscopy data from biological samples at beamline 1.4 at the Advanced Light Source.
 
 2.	Graduate Research Assistant, Environmental Actinide Chemistry Laboratory, Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame
   * Advisor: Dr. Amy E. Hixon
   * July 2019—Present
-  * Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite.
-    * Synthesize and characterize (using powder x-ray diffraction, N2 sorption BET surface area, dynamic light scattering, scanning electron microscope imaging, inductively coupled plasma-optical emission spectroscopy, potentiometric titrations, X-ray photoelectron spectroscopy) aluminum-substituted hematite, and aluminum-substituted goethite.
-    * Prepare Pu(V) working solutions for experiments from Pu solutions with initially mixed valence states.
-    * Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
-    *	Analyze and determine plutonium aqueous concentrations and oxidation state distributions from working solutions and batch sorption experiments using liquid scintillation counting.
-    * Collect (at the Stanford Synchrotron Radiation Lightsource and the Advanced Photon Source) and analyze L3-edge X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) data of plutonium-bearing samples from sorption experiments with iron oxide minerals.
+    * Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite.
+      * Synthesize and characterize (using powder x-ray diffraction, N2 sorption BET surface area, dynamic light scattering, scanning electron microscope imaging, inductively coupled plasma-optical emission spectroscopy, potentiometric titrations, X-ray photoelectron spectroscopy) aluminum-substituted hematite, and aluminum-substituted goethite.
+      * Prepare Pu(V) working solutions for experiments from Pu solutions with initially mixed valence states.
+      * Conducted batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
+      * Analyzed and determined plutonium aqueous concentrations and oxidation state distributions from working solutions and batch sorption experiments using liquid scintillation counting.
+      * Collected (at the Stanford Synchrotron Radiation Lightsource and the Advanced Photon Source) and analyzed L3-edge X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) data of plutonium-bearing samples from sorption experiments with iron oxide minerals. 
+      * Collected (at the Stanford Synchrotron Radiation Lightsource and the Advanced Photon Source) and analyzed µXRF maps of Pu associated with hematite and corundum.
+      * Co-designed sample cell/environment for synchrotron measurements of radioactive materials at room temperature, approved and used at the Advanced Photon Source.
+
 3. Guest Researcher, European Synchrotron Research Facility Collaborating Research Group: BM20 Rossendorf Beamline (ROBL), Helmholtz-Zentrum Dresden-Rossendorf (as a collaboration with the University of Notre Dame).
   * Advisor: Dr. Kristina O. Kvashnina
   * September—November 2022
-  * Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite using synchrotron-based X-ray spectroscopy.
-    * Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
-    * Collect (at the European Synchrotron Research Facility) and analyze Pu M4-edge and L3-edge high energy resolution X-ray absorption near-edge structure (HERFD-XANES) of plutonium-bearing samples from sorption experiments with iron oxide minerals.
-    * Collect (at the European Synchrotron Research Facility) and analyze Fe K-edge high energy resolution X-ray absorption near-edge structure (HERFD-XANES) Al-doped and non-doped iron oxide minerals.
+    * Study plutonium sorption, reduction, and chemical behavior in the presence of aluminum-doped hematite and goethite using synchrotron-based X-ray spectroscopy.
+      * Conduct batch sorption experiments with mineral species, an electrolyte medium, and aqueous plutonium.
+      * Collect (at the European Synchrotron Research Facility) and analyze Pu M4-edge and L3-edge high energy resolution X-ray absorption near-edge structure (HERFD-XANES) of plutonium-bearing samples from sorption experiments with iron oxide minerals.
+      * Collect (at the European Synchrotron Research Facility) and analyze Fe K-edge high energy resolution X-ray absorption near-edge structure (HERFD-XANES) Al-doped and non-doped iron oxide minerals.
+      
 4.	Research Assistant, Environmental Geochemistry Laboratory, Chapman University
   * Advisor: Dr. Christopher Kim
   * June 2017—July 2019
-  * Study arsenic spatial distribution in mine wastes, working towards developing a proxy for short- and long-term exposure risks using extended X-ray absorption fine structure (EXAFS) spectroscopy and micro X-ray fluorescence (µXRF) imaging. 
-    * Collect (at the Stanford Synchrotron Radiation Lightsource) and analyze K-edge EXAFS and XANES data from arsenic-contaminated mine-tailing samples.
-    * Collect similar X-ray absorption spectroscopy data from aggregated nanoscale goethite with sorbed Cu and Zn for other projects.
-    * Collect (at the Stanford Synchrotron Radiation Lightsource) and analyze µXRF maps of mine tailings to quantify arsenic and iron spatial distributions.
-    * Explore and co-develop (minor role) a machine-learning-assisted method to identify mine tailings and quantify arsenic from XRF maps using QGIS and QPath.
+    * Study arsenic spatial distribution in mine wastes, working towards developing a proxy for short- and long-term exposure risks using extended X-ray absorption fine structure (EXAFS) spectroscopy and micro X-ray fluorescence (µXRF) imaging. 
+      * Collect (at the Stanford Synchrotron Radiation Lightsource) and analyze K-edge EXAFS and XANES data from arsenic-contaminated mine-tailing samples.
+      * Collect similar X-ray absorption spectroscopy data from aggregated nanoscale goethite with sorbed Cu and Zn for other projects.
+      * Collect (at the Stanford Synchrotron Radiation Lightsource) and analyze µXRF maps of mine tailings to quantify arsenic and iron spatial distributions.
+      * Explore and co-develop (minor role) a machine-learning-assisted method to identify mine tailings and quantify arsenic from XRF maps using QGIS and QPath.
+
 5.	Stanford Earth Summer Undergraduate Research in Geoscience and Engineering (SURGE), Sedimentary Geology Group, Stanford University
   * Advisor: Dr. Donald Lowe, Mentor: Dr. Chayawan Jaikla
   * June—August 2018
-  * Apply petrography, geochemistry, and U-Pb detrital zircon geochronology of the Pigeon Point and Atascadero Formations to study the geologic implications for Late Cretaceous tectonic history of the San Gregorio-Hosgri fault.
-    * Collect and map field samples of turbidites and mudstones.
-    * Conduct mineral separations of zircon crystals from whole-rock turbidite and mudstone samples for U-Pb geochronology by secondary-ion mass spectrometry.
-    * Examine and quantify minerals in petrographic samples of turbidites and mudstones.
-    * Analyze rare-earth element and major-element composition data by inductive coupling plasma mass spectrometry of mudstone samples.
+    * Apply petrography, geochemistry, and U-Pb detrital zircon geochronology of the Pigeon Point and Atascadero Formations to study the geologic implications for Late Cretaceous tectonic history of the San Gregorio-Hosgri fault.
+      * Collect and map field samples of turbidites and mudstones.
+      * Conduct mineral separations of zircon crystals from whole-rock turbidite and mudstone samples for U-Pb geochronology by secondary-ion mass spectrometry.
+      * Examine and quantify minerals in petrographic samples of turbidites and mudstones.
+      * Analyze rare-earth element and major-element composition data by inductive coupling plasma mass spectrometry of mudstone samples.
+      
 6.	Summer Undergraduate Research Fellowship in Environmental and Earth Sciences (SURFEES), Environmental Geochemistry Laboratory, Chapman University
   * Advisor: Dr. Christopher Kim
   * June—August 2016
-  * Study the effects of drying aggregation conditions on the uptake and retention of Pb(II) and Zn(II) onto iron oxyhydroxide nanoparticles.
-    * Synthesize, aggregate, and characterize (using BET surface area, dynamic light scattering, scanning electron microscope imaging) nanoscale goethite in aqueous suspension.
-    * Conduct batch adsorption and desorption experiments with aggregated nanoscale goethite and Pb(II) and Zn(II)
-    * Analyze elemental concentrations of Pb(II) and Zn(II) using atomic absorption spectrometry.
+    * Study the effects of drying aggregation conditions on the uptake and retention of Pb(II) and Zn(II) onto iron oxyhydroxide nanoparticles.
+      * Synthesize, aggregate, and characterize (using BET surface area, dynamic light scattering, scanning electron microscope imaging) nanoscale goethite in aqueous suspension.
+      * Conduct batch adsorption and desorption experiments with aggregated nanoscale goethite and Pb(II) and Zn(II)
+      * Analyze elemental concentrations of Pb(II) and Zn(II) using atomic absorption spectrometry.
 
 Publications
 ======
 * Vejar, Manuel R.; Zengotita, Frances E.; Weiss, Stephan; Shams Aldin Azzam, Salim; Huittinen, Nina; Beutner, Sabrina; Bazarkina, Elena F.; Amidani, Lucia; Kvashnina, Kristina O.; and Hixon, Amy E. “Relationship between mineralogically complex iron (oxyhydr)oxides and plutonium sorption and reduction: a high-energy resolution X-ray absorption spectroscopy perspective” Environ. Sci. Technol. 2025, 59, 23, 11756–11766. https://doi.org/10.1021/acs.est.4c13899  
 * Zengotita, F.E.; Lahiri, N.; Engelhard, M.H.; Zhukovskyi, M.; Vejar, M.R.; Rosso, K.M.; Pearce, C.I.; Hixon, A.E. “Carbon mediated oxygen vacancy creation at hematite interfaces.” J. Phys. Chem. C 2025, 129, 15, 7316–7326. https://doi.org/10.1021/acs.jpcc.4c08423 
+* Vejar, Manuel R.; Johs, Alexander; Herndon, Elizabeth; Abernathy, Macon J.; Richardson, Jocelyn A.; and Pierce, Eric. “Influence of land use on the partitioning of redox-active and trace metals in stream sediments.” In preparation.
 * Vejar, Manuel R. (2024). “Redox and Speciation Behavior of Plutonium in Mineralogically Complex Systems: The Role of Aluminum-Substitution in Iron (Oxyhydr)Oxides.” University of Notre Dame. Dissertation. https://doi.org/10.7274/25565247.v1
 * Vejar, Manuel R.; Zengotita, Frances E.; Bone, Sharon E.; Sokaras, Dimosthenis; and Hixon, Amy E. “Uptake and speciation behavior of plutonium in the presence of mineralogically complex iron (oxyhydr)oxide minerals.” In preparation.
 * Zengotita, Frances E.; Vejar, Manuel R.; Bone, Sharon E.; Zhukovskyi, Maksym; and Hixon, Amy E. “Influence of morphology in nanoscale and Al-substituted hematites on the sorption of plutonium.” In preparation.
+* Zengotita, Frances E.; Vejar, Manuel R.; Boglaienko, Daria; Arenholz, Elke; Zhukovskyi, Maksym; Emerson, Hilary; Rosso, Kevin M.; Pearce, Carolyn I.; and Hixon, Amy E. “The role of iron oxide nanoparticle size on plutonium sorption and retention.” In preparation.
 
 Presentations
 ======
