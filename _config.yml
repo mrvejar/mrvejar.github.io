@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Manuel (Manny) Vejar"
-  avatar           : "MV at BM20.jpg"
+  avatar           : "Manny_SSRL_2025.jpg"
   bio              : "Postdoctoral scholar at SLAC National Accelerator Laboratory"
   location         : "Bay Area, CA"
   employer         : "SLAC National Accelerator Laboratory"
   pubmed           : 
-  #googlescholar    : #"http://yourfullgooglescholarurl.com"
+  #googlescholar    : "https://scholar.google.com/citations?user=6W9DSoEAAAAJ&hl=en"
   email            : "vejar@slac.stanford.edu"
   researchgate     : "https://www.researchgate.net/profile/Manuel-Vejar"
   uri              :
